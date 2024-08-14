@@ -1,6 +1,6 @@
 **General Information**
 
-This project focuses on developing models, including KNN, Random Forest, and CNN (with transfer learning) for the Auto Flood Prediction University project, part of the course "Topics in Computer Science."
+This project focuses on developing models, including SVM, KNN, RF, and CNN (with transfer learning) for the Auto Flood Prediction University project, part of the course "Topics in Computer Science."
 
 
 **Dataset Description**
@@ -62,7 +62,7 @@ The project workflow includes:
 
     1) Data Preprocessing
     
-    2) Feature Selection
+    2) Feature Extraction
     
     3) Model Training
     
